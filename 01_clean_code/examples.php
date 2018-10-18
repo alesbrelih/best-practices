@@ -105,6 +105,8 @@ if ($saturday == $today) {
 return ‘It is holiday’;
 }
 
-
+// 13. SCOUTS RULE
+// LEAVE THINGS BEHIND BETTER THAN THEY WERE WHEN YOU SHOWED UP
+// ---------------------------------------------------------------
 
 ?>
